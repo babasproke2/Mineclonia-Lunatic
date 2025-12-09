@@ -10,6 +10,8 @@ Important note: to load the map without Mineclonia's generation damaging the ter
 
 <img width="2000" height="1400" alt="image" src="https://github.com/user-attachments/assets/e27fb408-ddc1-4939-9091-eab4c74956bc" />
 
+The map image above was generated with the C++ tool Minetestmapper and with the colors.txt file available in world/ along with some hue alteration in post processing
+
 # Planned
 Magic broomsticks as vehicles in 3D space, mini-hakkero weapon, wolf tengu race, kappa race, flower fairy race, devil race, oji-san human villager race, ice fairy danmaku, frost walking effects for ice fairies, factions and faction reputations, NPCs with routines and faction alignments, magical protections of major locations for those without faction access, SDM goblin denizens, NPCs able to conduct repairs of their native locations, spellcards, spell tomes, quests, explosive danmaku (environmental damage), magic system, alchemy system, race-change methods such as completing certain quests or brewing certain potions, bartering system + currency with economy simulations, recoil on danmaku attacks, boat vehicles, replace hunger with a magical system for most non-human races, Minecraft style music system implementation, ambience system (such as rustling leaves sound effects when within range of outdoor leaves and so on)
 
