@@ -6,7 +6,7 @@ Mineclonia's repository: https://codeberg.org/mineclonia/mineclonia
 # Map
 The map was ported from Minecraft 1.16.2 to Mineclonia through this fork of the MC2MT tool, https://github.com/rollerozxa/MC2MT
 
-Note: the tool was in fact forked to deal with certain errors found while attempting the conversion, the fork may be uploaded here on Github soon, but should you attempt it yourself, my methodology was to provide an AI agent the codebase and related errors, at which point it developed a fork, I recompiled the program and an output was successful
+Note: the tool was in fact forked to deal with certain errors found while attempting the conversion, the fork may be uploaded here on Github soon, but should you attempt it yourself, my methodology was to provide an AI agent the codebase and related errors, at which point it developed a fork, I recompiled the program and an output was successful.
 
 Important note: to load the map without Mineclonia's generation damaging the terrain, disable the MCL level generation flags. This will be documented more in depth at a later time.
 
