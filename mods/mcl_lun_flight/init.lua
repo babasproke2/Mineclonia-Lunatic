@@ -77,10 +77,20 @@ core.register_globalstep(function(dtime)
 			if not st.double_jump_used then
 				set_slowfall(player, false)
 				player:add_velocity({ x = 0, y = DOUBLE_JUMP_BOOST, z = 0 })
+				core.sound_play("mcl_lun_races_se_kira02", {
+					pos = player:get_pos(),
+					gain = 0.6,
+					max_hear_distance = 24,
+				}, true)
 				st.double_jump_used = true
 				st.ascending = true
 			elseif st.slowfall then
 				set_slowfall(player, false)
+				core.sound_play("mcl_lun_races_se_ophide", {
+					pos = player:get_pos(),
+					gain = 0.55,
+					max_hear_distance = 24,
+				}, true)
 			end
 		end
 
